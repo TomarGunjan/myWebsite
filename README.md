@@ -8,4 +8,6 @@ remote changes before rebase
 MAKING SOME CHANGES
 
 
+## Getting started
+simply **clone** the repository
 
